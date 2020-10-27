@@ -1,4 +1,4 @@
-# 💻 Truy vấn thông tin đa phương tiện - CS112.L12.KHCL
+# 💻 Truy vấn thông tin đa phương tiện - CS336.L12.KHCL
 
 ![](https://portal.uit.edu.vn/Styles/profi/images/logo186x150.png)
 
