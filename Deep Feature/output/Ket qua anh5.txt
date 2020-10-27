@@ -5,4 +5,11 @@ panda1.jpg	panda6.jpg	panda9.jpg	panda5.jpg	panda19.jpg
 Cosine Similarity Metrics:[0.6059735, 0.5773713, 0.5657615, 0.54283285, 0.5185033]
 panda9.jpg	panda1.jpg	panda22.jpg	panda19.jpg	panda5.jpg	
 Dot Product Metrics:[6654.1855, 6499.36, 6361.382, 6078.4014, 5684.793]
+panda9.jpg	panda4.jpg	panda1.jpg	panda21.jpg	panda17.jpg	L2 Metrics:[92.87531, 94.38346, 96.91136, 98.8345, 100.6577]
+panda6.jpg	panda22.jpg	human16.jpg	panda5.jpg	panda18.jpg	
+L1 Metrics:[2888.7646, 2978.8438, 3007.2278, 3054.4653, 3120.248]
+panda1.jpg	panda6.jpg	panda9.jpg	panda5.jpg	panda19.jpg	
+Cosine Similarity Metrics:[0.6059735, 0.5773713, 0.5657615, 0.54283285, 0.5185033]
+panda9.jpg	panda1.jpg	panda22.jpg	panda19.jpg	panda5.jpg	
+Dot Product Metrics:[6654.1855, 6499.36, 6361.382, 6078.4014, 5684.793]
 panda9.jpg	panda4.jpg	panda1.jpg	panda21.jpg	panda17.jpg	

@@ -5,4 +5,11 @@ human16.jpg	human9.jpg	human11.jpg	human15.jpg	human12.jpg
 Cosine Similarity Metrics:[0.5075955, 0.48988947, 0.4528179, 0.44523588, 0.44133383]
 human15.jpg	human11.jpg	human16.jpg	human3.jpg	human5.jpg	
 Dot Product Metrics:[5189.91, 3965.7246, 3929.5952, 3921.7195, 3466.0557]
+human5.jpg	human15.jpg	panda17.jpg	human11.jpg	human4.jpg	L2 Metrics:[87.03885, 87.7283, 89.307076, 89.37026, 90.37512]
+human16.jpg	human15.jpg	human3.jpg	human9.jpg	human11.jpg	
+L1 Metrics:[2945.3896, 3012.9578, 3047.38, 3140.8613, 3185.4788]
+human16.jpg	human9.jpg	human11.jpg	human15.jpg	human12.jpg	
+Cosine Similarity Metrics:[0.5075955, 0.48988947, 0.4528179, 0.44523588, 0.44133383]
+human15.jpg	human11.jpg	human16.jpg	human3.jpg	human5.jpg	
+Dot Product Metrics:[5189.91, 3965.7246, 3929.5952, 3921.7195, 3466.0557]
 human5.jpg	human15.jpg	panda17.jpg	human11.jpg	human4.jpg	
