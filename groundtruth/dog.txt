@@ -1,0 +1,5 @@
+./data/dog1.jpg
+./data/dog2.jpg
+./data/dog3.jpg
+./data/dog4.jpg
+./data/dog5.jpg

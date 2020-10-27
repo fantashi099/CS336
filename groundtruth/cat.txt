@@ -1,0 +1,5 @@
+./data/cat1.jpg
+./data/cat2.jpg
+./data/cat3.jpg
+./data/cat4.jpg
+./data/cat5.jpg
