@@ -5,11 +5,4 @@ dog15.jpg	cat10.jpg	dog7.jpg	cat9.jpg	dog11.jpg
 Cosine Similarity Metrics:[0.42571047, 0.41650027, 0.3833265, 0.36271077, 0.3482603]
 cat18.jpg	cat4.jpg	cat9.jpg	dog14.jpg	cat5.jpg	
 Dot Product Metrics:[4626.484, 4361.9214, 3842.9976, 3543.9417, 3533.4214]
-cat18.jpg	cat4.jpg	panda21.jpg	panda8.jpg	dog6.jpg	L2 Metrics:[95.27996, 98.68673, 99.05073, 100.62132, 101.18308]
-cat10.jpg	cat5.jpg	cat14.jpg	dog15.jpg	dog7.jpg	
-L1 Metrics:[2785.0818, 2886.391, 2976.5159, 3085.2983, 3086.4944]
-dog15.jpg	cat10.jpg	dog7.jpg	cat9.jpg	dog11.jpg	
-Cosine Similarity Metrics:[0.42571047, 0.41650027, 0.3833265, 0.36271077, 0.3482603]
-cat18.jpg	cat4.jpg	cat9.jpg	dog14.jpg	cat5.jpg	
-Dot Product Metrics:[4626.484, 4361.9214, 3842.9976, 3543.9417, 3533.4214]
 cat18.jpg	cat4.jpg	panda21.jpg	panda8.jpg	dog6.jpg	

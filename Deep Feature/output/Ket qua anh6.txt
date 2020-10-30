@@ -5,11 +5,4 @@ tiger16.jpg	tiger14.jpg	tiger5.jpg	tiger4.jpg	tiger15.jpg
 Cosine Similarity Metrics:[0.75295365, 0.72291255, 0.70638573, 0.6991175, 0.69778955]
 tiger16.jpg	tiger5.jpg	tiger1.jpg	tiger14.jpg	tiger4.jpg	
 Dot Product Metrics:[8693.75, 8204.971, 8048.098, 7510.528, 7425.3438]
-tiger1.jpg	tiger8.jpg	tiger5.jpg	tiger16.jpg	tiger11.jpg	L2 Metrics:[70.20744, 78.55471, 79.27954, 80.13155, 82.20105]
-tiger16.jpg	tiger14.jpg	tiger5.jpg	tiger4.jpg	tiger7.jpg	
-L1 Metrics:[2031.31, 2044.1927, 2328.832, 2338.2874, 2441.3628]
-tiger16.jpg	tiger14.jpg	tiger5.jpg	tiger4.jpg	tiger15.jpg	
-Cosine Similarity Metrics:[0.75295365, 0.72291255, 0.70638573, 0.6991175, 0.69778955]
-tiger16.jpg	tiger5.jpg	tiger1.jpg	tiger14.jpg	tiger4.jpg	
-Dot Product Metrics:[8693.75, 8204.971, 8048.098, 7510.528, 7425.3438]
 tiger1.jpg	tiger8.jpg	tiger5.jpg	tiger16.jpg	tiger11.jpg	
