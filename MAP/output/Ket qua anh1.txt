@@ -1,0 +1,8 @@
+L2 Metrics:[84.62815, 89.50243, 91.69814, 93.38317, 93.76136]
+human9.jpg	human16.jpg	human18.jpg	human14.jpg	human12.jpg	
+L1 Metrics:[2728.7803, 2963.1978, 2980.4644, 3142.9678, 3173.2234]
+human9.jpg	human16.jpg	human18.jpg	human6.jpg	human12.jpg	
+Cosine Similarity Metrics:[0.53783715, 0.49878722, 0.4757527, 0.44641355, 0.4427907]
+human9.jpg	human18.jpg	human16.jpg	human14.jpg	human8.jpg	
+Dot Product Metrics:[5320.759, 4143.922, 3976.5137, 3961.391, 3845.565]
+human5.jpg	human18.jpg	human8.jpg	human9.jpg	panda21.jpg	

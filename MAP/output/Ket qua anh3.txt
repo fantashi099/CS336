@@ -1,0 +1,8 @@
+L2 Metrics:[85.17588, 86.97277, 88.10413, 93.00013, 94.66786]
+cat10.jpg	cat15.jpg	cat2.jpg	cat7.jpg	cat20.jpg	
+L1 Metrics:[2448.2551, 2575.0022, 2612.3462, 2653.1953, 2763.706]
+cat10.jpg	cat15.jpg	cat2.jpg	cat7.jpg	cat20.jpg	
+Cosine Similarity Metrics:[0.63785696, 0.630515, 0.61349654, 0.58997613, 0.5841649]
+cat10.jpg	cat15.jpg	cat2.jpg	cat3.jpg	cat7.jpg	
+Dot Product Metrics:[7502.5615, 7443.3066, 6847.2734, 6740.9375, 6552.4136]
+cat18.jpg	cat4.jpg	cat3.jpg	cat8.jpg	cat22.jpg	
